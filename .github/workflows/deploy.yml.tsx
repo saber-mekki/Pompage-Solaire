@@ -33,7 +33,7 @@ jobs:
       - name: Build
         run: npm run build
 
-      # SPA fallback (utile pour React Router / Vue Router en history mode)
+      # SPA fallback (utile si tu utilises React Router / Vue Router en history mode)
       - name: Copy 404.html
         run: cp dist/index.html dist/404.html
 
