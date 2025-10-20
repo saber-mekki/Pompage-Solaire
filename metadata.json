@@ -1,0 +1,5 @@
+{
+  "name": "Solar Pumping System Sizing Calculator",
+  "description": "A web application to calculate the required solar panel system size for a water pumping setup based on location, pump power, and daily operating hours. The calculations are based on solar irradiance data for various locations.",
+  "requestFramePermissions": []
+}

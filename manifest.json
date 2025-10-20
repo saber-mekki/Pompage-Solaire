@@ -1,0 +1,21 @@
+{
+  "short_name": "Solar Pump Calc",
+  "name": "Solar Pumping System Sizing Calculator",
+  "description": "A web application to calculate the required solar panel system size for a water pumping setup based on location, pump power, and daily operating hours.",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff"
+}
